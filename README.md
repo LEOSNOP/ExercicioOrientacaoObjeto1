@@ -1,5 +1,6 @@
 # treino2
 Exercicio 1
+
 a) Construir a classe Funcionário:
 i) variáveis de instância (visibilidade privada):
  Nome ( String nome)
