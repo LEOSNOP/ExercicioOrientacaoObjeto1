@@ -1,4 +1,5 @@
-# treino2
+# Exercicio Orientação a Objeto
+
 Exercicio 1
 
 a) Construir a classe Funcionário:
